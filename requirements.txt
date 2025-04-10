@@ -31,7 +31,3 @@ torch==2.2.1
 
 # Utilities
 tqdm==4.66.2
-
-# Development Environment
-notebook==7.1.2
-jupyterlab==4.1.5
