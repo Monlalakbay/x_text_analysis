@@ -119,7 +119,9 @@ Customize analysis in the notebook's configuration cell:
 - `NUM_TOPICS = 8` – Number of topics for LDA/BERTopic  
 - `MIN_TOPIC_SIZE = 50` – Minimum tweets per topic cluster  
 - `TIMEZONE = "UTC"` – Timezone for datetime normalization  
-- `CUSTOM_STOPWORDS = ['tourism', 'vacation']` – Add domain-specific stopwords  
+- `CUSTOM_STOPWORDS = ['tourism', 'vacation']` – Add domain-specific stopwords
+- `Min_df=5` – Ignores rare terms that appear in fewer than n tweets
+- `Max_df=0.7` – Ignores overly common terms that appear in more than n% of the tweets
 
 ---
 
