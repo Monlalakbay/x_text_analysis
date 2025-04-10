@@ -73,6 +73,8 @@ cd x_text_analysis
 2. Create and activate virtual environment
 ```shell
 python -m venv .venv
+```
+```shell
 source .venv/bin/activate  # Linux/Mac
 .venv\Scripts\activate     # Windows
 ```
