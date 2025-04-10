@@ -65,6 +65,8 @@ A comprehensive pipeline for analyzing Twitter/X data using advanced NLP and mac
 1. Clone repository
 ```shell
 git clone https://github.com/Monlalakbay/x_text_analysis.git
+```
+```shell
 cd x_text_analysis
 ```
 
@@ -83,6 +85,8 @@ pip install -r requirements.txt
 4. Download language models
 ```shell
 python -m spacy download en_core_web_sm
+```
+```shell
 python -m nltk.downloader punkt
 ```
 
