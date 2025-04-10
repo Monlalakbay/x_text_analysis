@@ -15,7 +15,8 @@ jupyterlab-widgets==3.0.10
 spacy==3.7.4
 emoji==2.11.1
 pyspellchecker==0.7.1
-gensim==4.3.2
+gensim==4.3.3
+scipy-1.13.1
 nltk==3.8.1
 
 # Topic Modeling Essentials
