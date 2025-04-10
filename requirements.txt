@@ -1,4 +1,4 @@
-# Core Data & Math
+# Core Data & Math 
 pandas==2.2.1
 numpy==1.26.4
 python-dateutil==2.8.2  
@@ -14,10 +14,9 @@ jupyterlab-widgets==3.0.10
 # NLP Processing
 spacy==3.7.4
 emoji==2.11.1
-spellchecker==0.7.1
+pyspellchecker==0.7.1
 gensim==4.3.2
 nltk==3.8.1
-# Remember to run: python -m spacy download en_core_web_sm
 
 # Topic Modeling Essentials
 bertopic==0.16.0
@@ -35,4 +34,4 @@ tqdm==4.66.2
 
 # Development Environment
 notebook==7.1.2
-jupyterlab==4.1.5 
+jupyterlab==4.1.5
